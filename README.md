@@ -1,4 +1,4 @@
-# Binary Tree Search on GPU (Mini Project)
+# Binary Tree Search on GPU 
 
 This project implements a **full binary tree search** over a large synthetic word database using **CUDA**.
 
